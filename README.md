@@ -7,6 +7,7 @@ Usage Steps:
 3-Enter Age
 4- press Calculate button
 
-Version 1 
+Version 2
 Features
 1- gives the recommendation of how much water have to drink daily.
+2-recommends the ideal temperature of water (e.g., lukewarm for elders, cool for youth).
